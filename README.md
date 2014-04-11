@@ -1,4 +1,4 @@
 skillug.github.io
 =================
 
-Skill UserGroup
+Skill User Group
